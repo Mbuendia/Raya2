@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.Rayados"
         version   = "2.0.0">
-    <name>tresenraya</name>
+    <name>reaction</name>
 
     <description>
         Reaction!
